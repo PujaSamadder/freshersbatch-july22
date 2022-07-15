@@ -1,4 +1,4 @@
-Summary about html,JS,CSS
+This is Javascript master branch
 <<<<<<< HEAD
 Hello, Hii, Bye
 this is css master branch
