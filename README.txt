@@ -1,5 +1,5 @@
-Summary about html,JS,CSS
-<<<<<<< HEAD
+JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn.
+
 Hello, Hii, Bye
 this is css master branch
 =======
